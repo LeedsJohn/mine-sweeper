@@ -1,0 +1,4 @@
+(executable
+ (public_name mine_sweeper)
+ (name main)
+ (libraries mine_sweeper))
